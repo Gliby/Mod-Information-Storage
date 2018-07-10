@@ -1,7 +1,7 @@
 {
-  "DonateURL": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PBXHJ67N62ZRW",
-  "UpdateURL": "http://mods.gliby.net/physics",
+  "DonateURL": "",
+  "UpdateURL": "",
   "Versions": [
-	"1.8:0.1.4"
+	"1.8:0.2"
   ]
 }
