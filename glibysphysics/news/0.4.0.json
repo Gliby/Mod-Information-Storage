@@ -1,9 +1,19 @@
 {
   "Changes": [
-    "!title0.4.0 minor changes:",
-    "Removed multi-threading. The mod exclusive runs in single threaded mode.",
-    "Improved memory managment, meaning the game shouldn't explode if you load/save a world.",
+    "!title'The Fix' update:",
+    "",
+    "Removed multi-threading. The mod exclusively runs in single threaded mode.",
+    "",
+    "Improved general stability.",
+    "",
+    "Disabled the TickRate setting.",
+    "",
+    "!titleMajor fixes:",
+    "",
+    "Fixed concurrency load/save crashes, meaning the game shouldn't explode if you load/save a world.",
+    "",
     "Fixed* worlds crashing if physics entities existed.",
-    "Unfortunately, the mod will feel more sluggish because of the single threaded mode."
-  ]
+    "",
+    "Fixed several crashes that happened when running the Native Physics."
+    ]
 }
