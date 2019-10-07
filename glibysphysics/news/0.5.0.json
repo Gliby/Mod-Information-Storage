@@ -1,8 +1,9 @@
 {
   "Changes": [
-    "!title'§lCousin, Let's go bowling!§n' update",
+    "!title§lCousin, Let's go bowling!§r update",
     "",
     "!title Features",
+    "",
     "Ported to 1.12.2.",
     "Falling blocks are now spawned as Physics blocks.",
     "Generated new Physics blocks for Minecraft 1.12.2.",
@@ -10,7 +11,9 @@
     "EntityCollisionResponse - Mobs/Players can now interact with Physics Blocks, off by default.",
     "Removed 'Remove' tool from the Tooling Master. Replaced by 'Align' tool.",
     "Added Dynamic Light support to blocks with light values. Meaning any block that inherently glows in the game, will glow as a Physics block. (AtomicStryker's §lDynamic Light§n mod is required)",
+    "",
     "!titleImprovements",
+    "",
     "Physics blocks don't drop items anymore, they re-align.",
     "Game spawned Physics blocks disappear faster.",
     "General memory usage.",
@@ -20,7 +23,9 @@
     "Improved memory management for both physics engines.",
     "Native physics stability improvements.",
     "General codebase improvements.",
+    "",
     "!titleFixes",
+    "",
     "RigidBody mechanics are once again saved/loaded on Physics blocks.",
     "Fixed OSX crashing under Native physics.",
     "Fixed not closing certain InputStreams."
