@@ -23,7 +23,7 @@
     "!titleFixes",
     "RigidBody mechanics are once again saved/loaded on Physics blocks.",
     "Fixed OSX crashing under Native physics.",
-    "Fixed not closing certain InputStreams.",
+    "Fixed not closing certain InputStreams."
     ]
 }
 
